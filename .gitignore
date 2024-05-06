@@ -1,0 +1,8 @@
+# editors
+*.swp
+*~
+
+# build
+/build*/
+
+.cache/clangd/index/
